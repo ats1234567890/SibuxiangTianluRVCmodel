@@ -7,3 +7,4 @@ this is sibuxiang and tianlu's RVCmodel
 天禄模型建议pitch=-1（若是同性别）
 天禄模型生成的音乐可能太过平滑，如遇到此问题，请自行进行后期处理，或找我拿成品文件
 如果是女声转男声，则pitch=-12左右，如果是同性则不变（pitch=0）或者向上调1或2个半音（pitch=1或2）
+详见MODEL_USAGE.md
